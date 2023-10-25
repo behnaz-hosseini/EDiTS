@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/603305600.svg)](https://zenodo.org/doi/10.5281/zenodo.10042158)
+
 # EDiTS - Embayment Decompression in Two Stages
 A MATLAB code (written in v. R2020a) for modeling diffusion of H2O and CO2 through rhyolitic melt embayments during two-stage, continuous magma
 decompression. The example is set up to fit H2O and CO2 concentration gradients measured along a 150-um long quartz-hosted rhyolitic melt embayment that
